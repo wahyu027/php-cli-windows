@@ -1,6 +1,6 @@
 # PHP CLI Windows 32 Bit Boilerplate
 
-This is a PHP 8.0.0 with Visual C++ Redistributable dll
+This is a PHP 8.0.0 with Visual C++ Redistributable dll library
 
 
 ## Why
